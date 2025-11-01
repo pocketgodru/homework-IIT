@@ -1,0 +1,19 @@
+.img1 {
+    background-color: whitesmoke;
+    width: 32.5%;
+    height: 82%;
+    position: relative;
+    margin-top: 1.2%;
+    left: 1%;
+    border-radius: 15px;
+}
+
+.img2 {
+    background-color: whitesmoke;
+    width: 32.5%;
+    height: 82%;
+    position: absolute;
+    bottom: 5.5%;
+    left: 35%;
+    border-radius: 15px;
+}
